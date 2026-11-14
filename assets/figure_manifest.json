@@ -1,0 +1,106 @@
+{
+  "01_source_views.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/reference/contact_sheet.jpg",
+    "processing": "Top row crop; five observed source viewpoints",
+    "size": [
+      1080,
+      384
+    ]
+  },
+  "02_nerfies.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/nerfies_experiment/results/lr1e4_110000/preview.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      720,
+      700
+    ]
+  },
+  "03_mononphm.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/mononphm_experiment/delivery/Front_Comparison.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1080,
+      500
+    ]
+  },
+  "04_distillation.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/nerfies_experiment/template_distillation/results/comparison_heldout.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1080,
+      1060
+    ]
+  },
+  "05_patch_partition.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/patch_local_sfm_arap_dense/review/patch_partition.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1680,
+      540
+    ]
+  },
+  "07_registration.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/flame_image_registration_20261114/review/comparison_180.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1170,
+      660
+    ]
+  },
+  "09_gray.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/flame_arap_texture_20261114/review/gray_comparison_168.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1440,
+      576
+    ]
+  },
+  "10_texture168.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/flame_arap_texture_20261114/review/comparison_168.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1440,
+      610
+    ]
+  },
+  "11_texture198.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/flame_arap_texture_20261114/review/comparison_198.jpg",
+    "processing": "Unchanged actual result image",
+    "size": [
+      1440,
+      610
+    ]
+  },
+  "06_sfm_dense_front.jpg": {
+    "source": "/Volumes/KIOXIA/mv3/female_rebuild/patch_local_sfm_arap_dense/review/baseline_vs_dense.jpg",
+    "processing": "Front row crop only; shared camera before/dense",
+    "size": [
+      1200,
+      460
+    ]
+  },
+  "08_constraints.jpg": {
+    "source": "flame_arap_texture_20261114/review/{conditional_network,displacement}.png",
+    "processing": "Side by side with explanatory labels; displacement is not error",
+    "size": [
+      1100,
+      650
+    ]
+  },
+  "00_pipeline.jpg": {
+    "source": "Original explanatory diagram",
+    "processing": "Illustrates implementation stages, not a rendered experiment",
+    "size": [
+      1800,
+      700
+    ]
+  },
+  "12_metrics.jpg": {
+    "source": "geometry_report.json; model_validation.json",
+    "processing": "Bars start at zero; both panels same 0..3 px scale",
+    "size": [
+      1600,
+      620
+    ]
+  }
+}
